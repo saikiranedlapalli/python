@@ -38,9 +38,6 @@ But we'll only print 48 because we are only interested in the integral part of t
 
 """
 
-
-
-
 def printTable(start,end,step):
     for i in range(start, end + 1, step):
         cels_val = (i-32)*(5/9)
@@ -51,8 +48,3 @@ s = int(input())
 e = int(input())
 step = int(input())
 printTable(s,e,step)
-
-
-
-
-
