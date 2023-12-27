@@ -32,27 +32,6 @@ EEEEE
 FFFFFF
 
 """
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
 from os import *
 from sys import *
 from collections import *
