@@ -26,35 +26,9 @@ Sample Output 1 :
 
 """
 
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
-from os import *
-from sys import *
-from collections import *
-from math import *
-
 ## Read input as specified in the question.
 ## Print output as specified in the question.
 n = int(input())
-
 
 for i in range(1, n+1):
     for j in range(1, n+1):
